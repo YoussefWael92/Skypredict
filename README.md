@@ -1,3 +1,4 @@
+
 # SkyPredict: Smart Weather Monitoring & Prediction System
 
 SkyPredict is a smart weather monitoring and prediction system that combines embedded systems, sensor integration, and machine learning to provide accurate environmental monitoring and weather forecasting.
@@ -7,6 +8,8 @@ The project was developed using Arduino-based hardware, multiple environmental s
 ---
 
 # 📌 Project Overview
+
+<img width="362" height="279" alt="Screenshot 2026-05-21 at 7 47 34 PM" src="https://github.com/user-attachments/assets/33d189e3-4500-4664-9ec7-096e6d8f05af" />
 
 This system collects real-time environmental data such as:
 
